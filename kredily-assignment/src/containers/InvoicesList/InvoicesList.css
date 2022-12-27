@@ -1,0 +1,17 @@
+.invoices-list__btn {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.column-status.red {
+  color: red;
+}
+
+.column-status.green {
+  color: green;
+}
+
+.column-status.blue {
+  color: blue;
+}

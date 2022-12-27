@@ -1,0 +1,8 @@
+.table-head,
+.table-row {
+  display: flex;
+}
+
+.table-head {
+  font-weight: bold;
+}
